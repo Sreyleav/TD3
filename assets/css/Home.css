@@ -1,0 +1,20 @@
+.home_container{
+    position: relative;
+    height;100%
+}
+.sidebar{
+    width:22%;
+    height:100%;
+    background-color:blanchedalmond;
+    position:fixed;
+}
+.container {
+text-align: center;
+backgrounnd-image: url('../images/background.jpg');
+height: 100%;
+margin-left: 22%;
+color: darkolivegreen;
+}
+.ccontainer .user_name{
+    font-size:60px
+}

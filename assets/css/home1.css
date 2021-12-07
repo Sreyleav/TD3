@@ -1,0 +1,77 @@
+body{
+background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+/* left side bar */
+#leftsidebar{
+    width: 21%;
+    height: 740px;
+    float: left;
+    background-color: white;
+
+}
+
+.profile{
+    text-align: center;
+    padding-top: 5%;
+
+    
+}
+
+li{
+    list-style-type: none;
+    line-height: 50px;
+    text-align: center;
+    padding-right: 12%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.social-media{
+    text-align: center;
+}
+
+/* righ side bar */
+#rightsidebar{
+    width: 78%;
+    height: 740px;
+    float: right;
+    background-image: url(/assets/images/4211463-blue-background-abstract.jpg);
+    background-color: black ;
+    opacity: 0.6;
+    line-height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.title{
+    text-align:center;
+    padding-top: 5%;
+}
+.title h2{
+    font-size: 60px;
+}
+
+.title h3{
+    font-size: 30px;
+    color: gray;
+}
+
+.data{
+    padding-left: 40%;
+    padding-top: 1%;
+    font-size: 20px;
+}
+
+
